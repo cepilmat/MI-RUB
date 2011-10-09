@@ -1,0 +1,5 @@
+BFS algoritmus
+
+graf se nacita ze souboru input se strukturou podle zadani,
+verze je zatim neuplna nacita se zatim jenom jedna iterace
+ bfs podle zadani zacinajiciho uzlu(pro potreby testovani)
