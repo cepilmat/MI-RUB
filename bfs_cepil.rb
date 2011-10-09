@@ -1,7 +1,3 @@
-# read input
-# t => the number of graphs <= 100
-# 
-
 def readfile (file)
 	file = File.open("input") 
 	t = (file.first).to_i
